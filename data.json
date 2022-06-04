@@ -1,0 +1,25 @@
+{
+	"_id":{"$oid":"60eb9491750329c4a6d8a71d"},
+	"hosts":[
+				{
+                  	"id":"1",
+                 	"name":"Kishore Daggubati"
+                }
+            ],
+	"attendees":[
+				{
+                    "id":"1",
+                    "name":"Dhruv Patel",
+                    "tasks":[
+                            {
+                              "id":"1",
+                              "title":"Create website Layout",
+                              "startdate":"3th July 2021",
+                              "enddate":"7th July 2021",
+                              "progress":"80",
+                              "priority":"High"
+                            }
+                            ]
+                }
+                ]
+}
